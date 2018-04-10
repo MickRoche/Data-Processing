@@ -1,0 +1,3 @@
+What is a so called “branch” in Git terms and why would you use it?
+
+A branch is a pointer that points to the commit data history
